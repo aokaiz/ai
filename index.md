@@ -29,6 +29,6 @@ layout: default
 ![scheme2](./img/scheme2.png)
 
 
-```
-常州工业职业技术学院 材料学院 张奥开
-```
+
+©CIIT aokaiz
+
