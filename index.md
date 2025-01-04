@@ -2,122 +2,33 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# 案例简介
 
 
-### Definition lists can be used with HTML syntax.
+>本案例从个性化教学、智能辅助工具、多元化资源、虚拟实验室及学情检测分析等方面入手，利用人工智能技术赋能课前、课中及课后教学。个性化定制方面，开发了自适应学习系统，提供个性化的学习路径和资源推荐。开发了虚拟仿真项目并将其融入知识图谱，提高了本课程的“两性一度”。有助于学生“能动脑”、“能动手”、“能动心”，促进学生渐进学习。本案例中制作的微课作品获得2024年第三届全国职业院校高分子材料类专业教师微课大赛一等奖；案例实施期间被认定为2024年校级公开课。
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+![scheme](./img/scheme.png)
+
+# 场景展示
+## 课堂教学（结合仿真实验）
+
+![class1](./img/class1.jpeg)
+
+## AI助教对话
+
+![talk](./img/talk.png)
+
+## 仿真应用展示
+- HDPE-LDPE共混仿真实验
+![HDLD](./img/HDLD.gif)
+
+- PP-SBS-HDPE共混仿真实验
+![HDPPSBS](./img/HDPPSBS.gif)
+
+# 技术示意图
+![scheme2](./img/scheme2.png)
+
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+常州工业职业技术学院 材料学院 张奥开
 ```
