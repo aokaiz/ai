@@ -25,6 +25,9 @@ layout: default
 - PP-SBS-HDPE共混仿真实验
 ![HDPPSBS](./img/HDPPSBS.gif)
 
+## 微课(结合数字人技术)
+![wk](./img/wk.gif)
+
 # 技术示意图
 ![scheme2](./img/scheme2.png)
 
